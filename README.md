@@ -53,3 +53,5 @@
 
 **[Android: OnDestory isn't called when I close the app from the recent apps button - Stack Overflow](https://stackoverflow.com/questions/41744933/android-ondestroy-isnt-called-when-i-close-the-app-from-the-recent-apps-button)**
 
+**[The many flavors of commit() - [Medium : Bryan Herbst]](https://medium.com/@bherbst/the-many-flavors-of-commit-186608a015b1)**
+

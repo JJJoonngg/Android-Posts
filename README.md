@@ -57,6 +57,8 @@
 
 **[Android - LiveData 사용 방법 - chacha 님의 블로그](https://codechacha.com/ko/android-jetpack-livedata/)**
 
+**[Android FCM Data와 Notification - 해리의 유목코딩](https://medium.com/harrythegreat/android-fcm-data%EC%99%80-notification-36a5285cfae5)**
+
 **<br>**
 
 **<br>**

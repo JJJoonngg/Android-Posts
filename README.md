@@ -59,6 +59,8 @@
 
 **[Android FCM Data와 Notification - 해리의 유목코딩](https://medium.com/harrythegreat/android-fcm-data%EC%99%80-notification-36a5285cfae5)**
 
+**[Camera2 Api를 사용해보자! - JCChu 님의 tistory](https://cnwlcjf.tistory.com/86)**
+
 **<br>**
 
 **<br>**

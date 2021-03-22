@@ -61,6 +61,8 @@
 
 **[Camera2 Api를 사용해보자! - JCChu 님의 tistory](https://cnwlcjf.tistory.com/86)**
 
+**[The android clean architecture [POV] - [Medium : Budi Oktaviyan]](https://budioktaviyans.medium.com/the-android-clean-architecture-pov-d9d5ec888534)**
+
 **<br>**
 
 **<br>**

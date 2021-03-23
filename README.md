@@ -63,6 +63,8 @@
 
 **[The android clean architecture [POV] - [Medium : Budi Oktaviyan]](https://budioktaviyans.medium.com/the-android-clean-architecture-pov-d9d5ec888534)**
 
+**[LiveData beyond the ViewModel - Reactive patterns using Transformations and MediatorLiveData - [Medium(androiddevelopers) : Jose Alcérreca]](https://medium.com/androiddevelopers/livedata-beyond-the-viewmodel-reactive-patterns-using-transformations-and-mediatorlivedata-fda520ba00b7)**
+
 **<br>**
 
 **<br>**

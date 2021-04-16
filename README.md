@@ -65,6 +65,8 @@
 
 **[LiveData beyond the ViewModel - Reactive patterns using Transformations and MediatorLiveData - [Medium(androiddevelopers) : Jose Alcérreca]](https://medium.com/androiddevelopers/livedata-beyond-the-viewmodel-reactive-patterns-using-transformations-and-mediatorlivedata-fda520ba00b7)**
 
+**[Template plugin for Android Studio 4.1+ - [Medium : Stevica Tranjanovic]](https://steewsc.medium.com/template-plugin-for-android-studio-4-1-92dcbc689d39)**
+
 **<br>**
 
 **<br>**

@@ -67,6 +67,8 @@
 
 **[Template plugin for Android Studio 4.1+ - [Medium : Stevica Tranjanovic]](https://steewsc.medium.com/template-plugin-for-android-studio-4-1-92dcbc689d39)**
 
+**[How I automated creating files for a new screen with my own Android Studio Plugin - [Medium : rzegorz Matyszczak]](https://proandroiddev.com/how-i-automated-creating-files-for-a-new-screen-with-my-own-android-studio-plugin-5d54b14ba6fa)**
+
 **<br>**
 
 **<br>**

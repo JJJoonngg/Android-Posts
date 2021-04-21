@@ -69,6 +69,8 @@
 
 **[How I automated creating files for a new screen with my own Android Studio Plugin - [Medium : rzegorz Matyszczak]](https://proandroiddev.com/how-i-automated-creating-files-for-a-new-screen-with-my-own-android-studio-plugin-5d54b14ba6fa)**
 
+**[Kotlin Android debounce - Stack OverFlow](https://stackoverflow.com/questions/50858684/kotlin-android-debounce)**
+
 **<br>**
 
 **<br>**

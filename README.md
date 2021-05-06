@@ -71,6 +71,8 @@
 
 **[Kotlin Android debounce - Stack OverFlow](https://stackoverflow.com/questions/50858684/kotlin-android-debounce)**
 
+**[Android Click Debounce - [Medium : Aleksander Kubista]](https://medium.com/swlh/android-click-debounce-80b3f2e638f3)**
+
 **<br>**
 
 **<br>**

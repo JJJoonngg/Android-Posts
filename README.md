@@ -73,6 +73,8 @@
 
 **[Android Click Debounce - [Medium : Aleksander Kubista]](https://medium.com/swlh/android-click-debounce-80b3f2e638f3)**
 
+**[추가 용량 없이 폰트 사용하기 - devbobos님의 개발자 블로그]](https://devbobos.github.io/2018/03/08/%EC%B6%94%EA%B0%80-%EC%9A%A9%EB%9F%89-%EC%97%86%EC%9D%B4-Android-%ED%8F%B0%ED%8A%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.html)**
+
 **<br>**
 
 **<br>**

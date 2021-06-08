@@ -75,6 +75,9 @@
 
 **[추가 용량 없이 폰트 사용하기 - devbobos님의 개발자 블로그](https://devbobos.github.io/2018/03/08/%EC%B6%94%EA%B0%80-%EC%9A%A9%EB%9F%89-%EC%97%86%EC%9D%B4-Android-%ED%8F%B0%ED%8A%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.html)**
 
+**[App Bundle의 Dynamic Delivery 로 국가별 모듈 제공하기 - [Medium : 당근마켓, 한로니님의 글]](https://medium.com/daangn/app-bundle%EC%9D%98-dynamic-delivery%EB%A1%9C-%EA%B5%AD%EA%B0%80%EB%B3%84-%EB%AA%A8%EB%93%88-%EC%A0%9C%EA%B3%B5%ED%95%98%EA%B8%B0-ee699c561707)**
+
+
 **<br>**
 
 **<br>**

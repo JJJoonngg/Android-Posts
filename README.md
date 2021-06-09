@@ -77,6 +77,8 @@
 
 **[App Bundle의 Dynamic Delivery 로 국가별 모듈 제공하기 - [Medium : 당근마켓, 한로니님의 글]](https://medium.com/daangn/app-bundle%EC%9D%98-dynamic-delivery%EB%A1%9C-%EA%B5%AD%EA%B0%80%EB%B3%84-%EB%AA%A8%EB%93%88-%EC%A0%9C%EA%B3%B5%ED%95%98%EA%B8%B0-ee699c561707)**
 
+**[Android textview text get cut off on the sides with custom font - Stack OverFlow](https://stackoverflow.com/questions/44074858/android-textview-text-get-cut-off-on-the-sides-with-custom-font)**
+
 
 **<br>**
 

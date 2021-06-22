@@ -79,6 +79,8 @@
 
 **[Android textview text get cut off on the sides with custom font - Stack OverFlow](https://stackoverflow.com/questions/44074858/android-textview-text-get-cut-off-on-the-sides-with-custom-font)**
 
+**[App Bundle  개념과 필요성 - 투덜이의 리얼 블로그](https://tourspace.tistory.com/388?category=788397)**
+
 
 **<br>**
 

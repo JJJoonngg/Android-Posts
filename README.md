@@ -81,6 +81,8 @@
 
 **[App Bundle  개념과 필요성 - 투덜이의 리얼 블로그](https://tourspace.tistory.com/388?category=788397)**
 
+**[Are MVC, MVP and MVVm really architectural patterns? - [Medium : Anderson Badari]](https://medium.com/@anderson.badari/are-mv-something-really-architectural-patterns-abc36c1ed821)**
+
 
 **<br>**
 

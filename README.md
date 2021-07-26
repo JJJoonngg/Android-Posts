@@ -83,6 +83,7 @@
 
 **[Are MVC, MVP and MVVm really architectural patterns? - [Medium : Anderson Badari]](https://medium.com/@anderson.badari/are-mv-something-really-architectural-patterns-abc36c1ed821)**
 
+**[Android 앱 메모리 최적화 - Naver D2](https://d2.naver.com/helloworld/539525)**
 
 **<br>**
 

@@ -85,6 +85,8 @@
 
 **[Android 앱 메모리 최적화 - Naver D2](https://d2.naver.com/helloworld/539525)**
 
+**[Android Center text on canvas - Stack OverFlow](https://stackoverflow.com/questions/11120392/android-center-text-on-canvas)**
+
 **<br>**
 
 **<br>**

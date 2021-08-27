@@ -87,6 +87,8 @@
 
 **[Android Center text on canvas - Stack OverFlow](https://stackoverflow.com/questions/11120392/android-center-text-on-canvas)**
 
+**[How to get current memory usage in android? - Stack OverFlow](https://stackoverflow.com/questions/3170691/how-to-get-current-memory-usage-in-android)**
+
 **<br>**
 
 **<br>**

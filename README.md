@@ -89,6 +89,8 @@
 
 **[How to get current memory usage in android? - Stack OverFlow](https://stackoverflow.com/questions/3170691/how-to-get-current-memory-usage-in-android)**
 
+**[Google Play Asset Delivery in Android - [Medium : Jagdish Paryani]](https://medium.com/mindful-engineering/google-play-asset-delivery-in-android-dcc2059e5a63)**
+
 **<br>**
 
 **<br>**
